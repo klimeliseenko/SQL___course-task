@@ -8,7 +8,7 @@ Take a look at the results in the attached files:
   <li>Task-7.2.pdf</li>
 </ul>
 
-2. Also I worked with <a href="">Demo Database</a>:
+2. Also I worked with <a href="https://www.w3schools.com/sql/sql_like.asp">Demo Database</a>:
 
 The result is in this file:
 <ul>
