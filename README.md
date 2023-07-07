@@ -11,7 +11,7 @@ Take a look at the results in the attached files:
 2. Also I worked with <a href="https://www.w3schools.com/sql/sql_like.asp">Demo Database</a>:
 
 Scroll down and you will see:
-![Screenshot](https://github.com/klimeliseenko/sql/blob/main/Screenshot%20SQL.png)https://github.com/klimeliseenko/sql/blob/main/Screenshot%20SQL.png)
+![Screenshot](https://github.com/klimeliseenko/sql/blob/main/Screenshot%20SQL.png)
 
 The result is in this file:
 <ul>
